@@ -1,0 +1,70 @@
+body {
+  background-image: url(http://www.stevens-wood.com/sites/default/files/swatches/L29-Natural%20Marrone.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  height: 120px;
+  vertical-align: middle;
+}
+
+.h-top {
+  line-height: 120px;
+  vertical-align: middle;
+}
+
+.title {
+  display: inline;
+  color: white;
+}
+
+button {
+  border-radius: 3px;
+}
+
+hr {
+  border: 1px solid white;
+}
+
+.radius {
+  background: orange;
+  border-radius: 50%;
+  padding: 15px;
+}
+
+h2 {
+  font-weight: lighter;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  margin-left: -40px;
+}
+
+li {
+  background-color: #B4B4B4;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+ul p {
+  display: inline;
+}
+
+.white {
+  background-color: white;
+}
+
+footer {
+  text-align: center;
+  color: white;
+}
+
+#fine {
+  display: inline;
+  font-weight: bold;
+  font-size: 30px;
+}
