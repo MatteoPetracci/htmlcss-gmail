@@ -63,3 +63,8 @@ footer {
   font-weight: bold;
   font-size: 30px;
 }
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
